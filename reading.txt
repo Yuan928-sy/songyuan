@@ -1,8 +1,0 @@
-ADF access 
-dapib72290ab449c74aec362fa839e243292
-
-
-JDBC URL：
-jdbc:spark://adb-7215305693868976.16.azuredatabricks.net:443/default;transportMode=http;ssl=1;httpPath=sql/protocolv1/o/7215305693868976/0516-072608-y7um404g;AuthMech=3;UID=token;PWD=<personal-access-token>
-
-https://adb-7215305693868976.16.azuredatabricks.net:443/sql/protocolv1/o/7215305693868976/0516-072608-y7um404g
